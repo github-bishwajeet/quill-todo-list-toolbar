@@ -1,0 +1,27 @@
+{
+  "name": "quill-todo-list-toolbar",
+  "version": "1.0.0",
+  "description": "A todo list module for the vue quill toolbar",
+  "main": "todo_list.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github-bishwajeet/quill-todo-list-toolbar.git"
+  },
+  "keywords": [
+    "quill",
+    "todo",
+    "list",
+    "quill",
+    "task",
+    "list"
+  ],
+  "author": "Bishwajeet Kumar < bishwajeetk003@gmail.com >",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github-bishwajeet/quill-todo-list-toolbar/issues"
+  },
+  "homepage": "https://github.com/github-bishwajeet/quill-todo-list-toolbar#readme"
+}
